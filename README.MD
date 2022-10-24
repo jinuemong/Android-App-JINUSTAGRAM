@@ -37,4 +37,4 @@
   4개월
 
 # 개발 환경
-  java, kotlin, xml, 안드로이드 스튜디오, python,  DRF , Django
+  java, kotlin, xml, 안드로이드 스튜디오, python,  DRF , Django 
