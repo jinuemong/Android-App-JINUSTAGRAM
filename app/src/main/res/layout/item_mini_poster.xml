@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/mini_poster_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_baseline_content_copy_24" />
+        <LinearLayout
+            android:gravity="end"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
+            <ImageView
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:visibility="visible"
+                android:id="@+id/mini_poster_count"
+                android:src="@drawable/ic_baseline_content_copy_24"
+                android:layout_width="25dp"
+                android:layout_height="25dp"/>
+        </LinearLayout>
+
+</FrameLayout>

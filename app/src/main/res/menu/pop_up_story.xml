@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/view_viewer"
+        android:title="시청 기록" />
+    <item
+        android:id="@+id/del_story"
+        android:title="스토리 삭제"/>
+</menu>

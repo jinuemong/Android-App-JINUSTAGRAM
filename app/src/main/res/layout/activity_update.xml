@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UpdateProfileActivity"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/update_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="취소"
+            android:textColor="@color/star"
+            android:textSize="20sp" />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <TextView
+            android:textStyle="bold"
+            android:text="프로필 수정"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/update_ok"
+            android:textColor="@color/star"
+            android:layout_marginEnd="15dp"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="완료"/>
+    </LinearLayout>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/star" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/update_user_image"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/ic_baseline_face_24"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/star"
+        app:civ_border_overlay="false" />
+
+    <TextView
+        android:id="@+id/update_image_button"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/star"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="@string/change_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginBottom="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/star" />
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="50dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
+        <TextView
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="아이디"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/update_username"
+            android:gravity="center"
+            android:hint="15자 이내"
+            android:layout_marginStart="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="50dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
+        <TextView
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="이름"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/update_custom_name"
+            android:gravity="center"
+            android:hint="15자 이내"
+            android:layout_marginStart="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="150dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
+        <TextView
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="소개"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/update_comment"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:hint="50자 이내"
+            android:lineSpacingMultiplier="200"
+            android:layout_marginStart="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/update_user_id"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

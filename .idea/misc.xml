@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/border.xml" value="0.1415" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.177" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1475" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.154" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_favorite_24_red.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_flash_off_24.xml" value="0.1185" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_linked_camera_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_mode_comment_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_person_search_24.xml" value="0.15" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1185" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_table_rows_24.xml" value="0.1455" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_update_24.xml" value="0.1185" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.166" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/main_include_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/rec_border.xml" value="0.1045" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/rec_border_white.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/rec_dark_border.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/rec_white_border.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/round_Image.xml" value="0.2355" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/round_border.xml" value="0.1145" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/round_border_two.xml" value="0.1135" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/drawable/round_dark_border.xml" value="0.1045" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/font/custom.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_insert.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_select_pic.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_test.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_update.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_upload_poster.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_upload_story.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_comment.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_explore.xml" value="0.144" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_follow.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_follower_list.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_following_list.xml" value="0.146875" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_home_horizontal.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_message_list.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_message_room.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_poster.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_search.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_user.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_user_ui.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_user_ui_panel_slide.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_user_zero.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_userui.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_video.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/fragment_view_list.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/home_recycler.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_circle_mini_profile.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_circle_rect_mini_profile.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_comment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_explore.xml" value="0.152" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_message.xml" value="0.1578125" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_mini_message.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_mini_poster.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_mini_profile.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_my_message.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_one_image.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_one_image_upload.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_other_message.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_pic.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_posting_poster.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_posting_story.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_rect_mini_profile.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_search_log.xml" value="0.176" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/item_selected_poster.xml" value="0.1578125" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/main_include_drawer.xml" value="0.16" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/pop_custom.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/pop_story_viewer.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/posting_story.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/posting_user.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/search_log.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/slide_user_ui_panel.xml" value="0.20811965811965813" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/layout/test_layout.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/pop_up.xml" value="0.2" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/pop_up_camera.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/pop_up_poster.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/pop_up_story.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/pop_up_upload.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/menu/tab_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/xml/file_paths.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/Jinustagram/app/src/main/res/xml/wave.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/drawable/round_border.xml" value="0.259" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/layout/activity_insert.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/jinwo/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/decor_caption.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

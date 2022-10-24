@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external"
+        path="/Pictures/star" />
+    <external-files-path
+        name="external_files"
+        path="/Pictures/star" />
+    <cache-path
+        name="cache"
+        path="/Pictures/star" />
+    <external-cache-path
+        name="external_cache"
+        path="/Pictures/star" />
+    <files-path
+        name="files"
+        path="/Pictures/star" />
+</paths>

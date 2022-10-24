@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Message.MessageRoomFragment">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+
+            <ImageView
+                android:layout_marginStart="5dp"
+                android:layout_gravity="center"
+                android:id="@+id/message_room_back_button"
+                android:src="@drawable/ic_baseline_arrow_back_ios_24"
+                android:layout_width="30dp"
+                android:layout_height="30dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/message_room_user_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/ic_baseline_face_24"
+                app:civ_border_width="2dp"
+                app:civ_border_color="@color/star"
+                app:civ_border_overlay="false" />
+
+            <LinearLayout
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="1dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/message_room_username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="bottom"
+                    android:text="name"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/message_room_custom_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text="custom_name"
+                    android:textSize="18sp" />
+            </LinearLayout>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="3dp"
+                android:layout_weight="1" />
+            <ImageView
+                android:layout_marginEnd="10dp"
+                android:id="@+id/message_room_user_menu_button"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_baseline_more_horiz_24" />
+        </LinearLayout>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/star" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="15dp"
+            android:orientation="vertical">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_weight="8"
+                android:id="@+id/message_room_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="0dp" />
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/star" />
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/round_border"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+
+                <EditText
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="20"
+                    android:id="@+id/message_room_message_ty"
+                    android:hint="메시지 보내기..."
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"/>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="3dp"
+                    android:layout_weight="1" />
+                <ImageView
+                    android:layout_weight="1"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/message_room_send_message"
+                    android:src="@drawable/ic_baseline_send_24"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"/>
+                <ImageView
+                    android:layout_weight="1"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/message_room_gallery"
+                    android:src="@drawable/ic_baseline_content_copy_24"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
