@@ -117,38 +117,12 @@ class UserActivity : AppCompatActivity() {
         frManager.beginTransaction().hide(fromFragment).commit()
         frManager.beginTransaction().show(goFragment).commit()
     }
-    //typ는 현재 useractivty의 실행 화면
     fun onFragmentChange(goFragment: Fragment){
-//        Log.d("프래그먼트 추가 fragmentChange",currentFragment.toString())
-//        fragmentStack.add(currentFragment)
-//        Log.d("프래그먼트 스택 ",fragmentStack.toString())
-//        //현재 인덱스를 보내줘서 go Fragment 로 교체 -> 인덱스는 그대로 유지
-//        val index = viewPager.currentItem
-//        pagerAdapter.changeFragment(index,goFragment)
-//        viewPager.adapter = pagerAdapter
-//        viewPager.currentItem = index
-//        //아래가 일반적인 프래그먼트 교체 방법이지만 viewpager2에서는 replace를
-//        // 사용 할 수 없다 따라서 새로운 fragment manager를 제작
-////        frManager.beginTransaction()
-////            .replace(R.id.view_container,goFragment)
-////            .commitNow()
-
         frManager.beginTransaction().replace(R.id.view_container,goFragment)
             .addToBackStack(null)
             .commit()
     }
     fun onFragmentGoBack(fragment: Fragment){
-//        if (fragmentStack.size>0) {
-//            val fr = fragmentStack[fragmentStack.lastIndex]
-//            fragmentStack.removeLast()
-//            val index = viewPager.currentItem
-//            pagerAdapter.changeFragment(index, fr)
-//            viewPager.adapter = pagerAdapter
-//            viewPager.currentItem = index
-//        }else{
-//            frManager.beginTransaction().remove(fragment).commitNow()
-//            frManager.popBackStack()
-//        }
         frManager.beginTransaction().remove(fragment).commit()
         frManager.popBackStack()
 

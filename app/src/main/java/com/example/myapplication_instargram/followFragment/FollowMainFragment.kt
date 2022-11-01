@@ -83,7 +83,7 @@ class FollowMainFragment(
             (activity as UserActivity).onFragmentGoBack(this@FollowMainFragment)
         }
 
-        //프래그먼트에` 프래그먼트 연결 시 매니저 + 라이프 사이클을 보내줌
+        //프래그먼트에 프래그먼트 연결 시 매니저 + 라이프 사이클을 보내줌
         pagerAdapter = FollowFragmentAdapter(childFragmentManager,lifecycle)
         pagerAdapter.addFragment(ListFollowerFragment(targetUsername))
         pagerAdapter.addFragment(ListFollowingFragment(targetUsername))
