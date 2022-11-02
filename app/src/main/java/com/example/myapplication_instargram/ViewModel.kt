@@ -21,7 +21,7 @@ import retrofit2.Callback
 import retrofit2.Response
 import java.io.File
 
-//multipart 형식으로 보낼 때 필요한 함수
+//multipart 형식으로 보낼 때 필요
 class ViewModel : ViewModel(){
     //게시물 전송 - 파일 형식 (연속)
     fun uploadPoster(filePath: ArrayList<Uri>,username: String,body: String,

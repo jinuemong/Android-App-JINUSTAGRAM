@@ -206,8 +206,6 @@ fun setAutoSizeView(view:View){
             view.viewTreeObserver.removeOnGlobalLayoutListener(this)
             val w = view.measuredWidth
             view.layoutParams = FrameLayout.LayoutParams(w, w)
-
         }
-
     })
 }

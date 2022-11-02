@@ -26,7 +26,6 @@ class InsertActivity : AppCompatActivity() {
         setContentView(R.layout.activity_insert)
         initView()
         setUpListener()
-
     }
 
     fun setUpListener() {
