@@ -107,6 +107,7 @@
         <entry key="..\:/Users/jinwo/AndroidStudioProjects/MyApplication_instargram/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/jinwo/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/decor_caption.xml" value="0.25" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.134" />
+        <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1545" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.233" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.19" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1175" />
@@ -118,8 +119,10 @@
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/drawable/round_dark_border.xml" value="0.134" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_insert.xml" value="0.25" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_select_pic.xml" value="0.21105072463768115" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_test.xml" value="0.25" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_update.xml" value="0.25" />
+        <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_upload_poster.xml" value="0.21105072463768115" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_upload_story.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/activity_user.xml" value="0.136" />
         <entry key="..\:/Users/jinwo/desktopss/codingJM/AndroidStudioProjects/JinustagramJM/app/src/main/res/layout/fragment_comment.xml" value="0.25" />
