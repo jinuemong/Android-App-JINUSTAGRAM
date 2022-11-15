@@ -2,7 +2,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-
         android:id="@+id/select_pic"
         android:title="사진 촬영" />
     <item
