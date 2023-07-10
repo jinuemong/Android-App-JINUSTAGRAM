@@ -1,6 +1,9 @@
 # Android Project
 ------------------
 
+### Project Information
+https://www.notion.so/Jinwoo-Kim-ba88c2c3e87a4a16b5ed402bf501dea4?p=7e2d236d507142ad8b7a8aed3ce76e99&pm=c
+
 ### Project Name
    - jinustagram (인스타그램)
    
